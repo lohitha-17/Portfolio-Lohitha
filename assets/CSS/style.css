@@ -574,7 +574,7 @@ strong { color: var(--text); }
 .about-text { padding: 28px; }
 
 .about-badge {
-  padding: 28px;
+  padding: 32px;
   display: flex;
   flex-direction: column;
   align-items: center;
