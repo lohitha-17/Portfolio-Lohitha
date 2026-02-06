@@ -571,7 +571,7 @@ strong { color: var(--text); }
   align-items: stretch;
 }
 
-.about-text { padding: 28px; }
+.about-text { padding: 32px; }
 
 .about-badge {
   padding: 32px;
